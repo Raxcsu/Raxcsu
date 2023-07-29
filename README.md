@@ -5,9 +5,9 @@ I am Oscar. A pleaseure to greet you.
 - 🌱 I’m currently learning more about Deep Learning, computer vision and web dev.
 - :house_with_garden: Based at our lovely :peru:.
 - 👯 I’m looking for collaborating on AI and computer vision projects with real-world applications.
-- 🤔 I’m looking for helping to :earth_americas:.
+- 🤔 I’m looking for helping to :earth_americas: and the ocean with technology.
 - 💬 Talk to me about AI, life, movies, or simple crazy innovative ideas.
-- 📫 Find me on [![LinkedIn][3.2]][1], or on *oscar.castro [at] utec [dot] edu [dot] pe*.
+- 📫 Find me on [![LinkedIn][1.2]][1], or on *oscar.castro [at] utec [dot] edu [dot] pe*.
 - ⚡ Fun fact: I'm a really good dancer and chef.
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=004263)
@@ -22,7 +22,6 @@ I am Oscar. A pleaseure to greet you.
 </a>
 
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
 
 [1]: https://www.linkedin.com/in/oscar-castro-ml/
 
