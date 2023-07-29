@@ -12,7 +12,7 @@ I am Oscar. A pleaseure to greet you.
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=004263)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=004263)
-![](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=Javascript&logoColor=white&color=004263)
+![](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=Matlab&logoColor=white&color=004263)
 
 <a href="https://github.com/Raxcsu/Raxcsu">
   <img align="center" img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raxcsu&layout=compact&hide=java,html&title_color=004263&text_color=6A6A6A&icon_color=0092c3&bg_color=ffffff" />
